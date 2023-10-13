@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+article {
+  margin: auto;
+  width: fit-content;
+  max-width: 60%;
+}
+
+.elem {
+  border: 1px solid black;
+  width: 10rem;
+  height: 15rem;
+}
+
+.elem p {
+  margin: auto;
+  text-align: center;
+  font-size: 12rem;
+}
